@@ -17,6 +17,9 @@ A figura abaixo eexpressa o texto acima de forma visual:
 
 # Objetivos
 
+* Construir uma interface Teclado/Display onde é possível processar de froma correta, via microcontrolador, o que se deseja com o teclado, além de ser possível compreender o que o microcontrolador está recebendo com display.
+* Repassar com o uso do teclado matricial a temperetura máxima que um forno pode operar, e reallizar a simulação do seu funcionamento.
+
 # Resultados 
 
 # Conclusões
