@@ -22,4 +22,6 @@ A figura abaixo eexpressa o texto acima de forma visual:
 
 # Resultados 
 
+![Esquema do Projeto](https://github.com/matheus123deimos/Trabalho2_Micropr/blob/main/sch/ProjetoFinal.jpg)
+
 # Conclusões
