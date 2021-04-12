@@ -33,6 +33,6 @@ Infelizmente, apesar de todo esse conceito,ao tentar conectar a Página 1 com a 
 O Projeto funcionou e funciona separadamente, mas ao unir os códigos houve um problema desconhecido não descoberto a tempo, uma provável causa seria alguma
 configuração errada da pinagem que código usa.
 
-* Página 1: O Display funcionava normalmente separado do projeto completo, e estava tudo bem estabelecido com relação ao texto mostrado na tela e a transição entre os estados, porém parou de funcionar após o primeiro teste com a conexão com página 2, não mostrando nem mesmo o texto padrão. (Causa Desconhecida).
+* Página 1: O Display funcionava normalmente separado do projeto completo, e estava tudo bem estabelecido com relação ao texto mostrado na tela e a transição entre os estados, porém parou de funcionar após o primeiro teste da a conexão com página 2, não mostrando nem mesmo o texto padrão. (Causa Desconhecida).
 * Página 2: Funciona normalmente separada.
 * Página 1 + Página 2: Não Funciona (Causa Desconhecida).
