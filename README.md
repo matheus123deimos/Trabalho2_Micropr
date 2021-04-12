@@ -13,6 +13,8 @@ mostrada no display, já o pino de entrada serve para verificar a que temperatur
 
 A figura abaixo eexpressa o texto acima de forma visual:
 
+![](https://github.com/matheus123deimos/Trabalho2_Micropr/blob/main/Projeto%20Micro.png?raw=true)
+
 # Objetivos
 
 # Resultados 
