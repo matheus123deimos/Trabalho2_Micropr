@@ -26,4 +26,6 @@ A figura abaixo eexpressa o texto acima de forma visual:
 
 Na imagem acima o Pino 15 controla o funcionamento da chave do relé, quando a temperatura máxima que o display mostra for atingida, o microcontrolador mandará um sinal para este Pino 15, que fará com que o relé dispare a chave desligando o forno. Mas como o STM32F103C6 sabe qual é a temperatura do Forno? Ele possui um conversdo Analógico Digital (ADC) e faz o uso driver HAL_ADC, isso significa que ele converte a tensão mostrada no voltímetro em temperatura. O Microcontrolador faz essa leitura no Pino 0, ou seja, o Pino 0 é conectado no dividor de tensão.
 
+Infelizmente, apesar de todo esse conceito,ao tentar conectar a Página 1 com a Página 2, sendo cada uma desenvolvida por alunos diferentes, o projeto como um todo não funcionou, ou seja,apesar de ter sido construído de forma correta a interface Display/Teclado, ter sido estabecida corretamente a transição entre os estados,e separadamente ter sido configurada a lógica por trás de liga e desligar o forno, ao juntar tudo em projeto só houve um travamento do proteus, onde não foi possível descobrir a tempo o real problema.
+
 # Conclusões
