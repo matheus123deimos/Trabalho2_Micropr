@@ -36,3 +36,5 @@ configuração errada da pinagem que código usa.
 * Página 1: O Display funcionava normalmente separado do projeto completo, e estava tudo bem estabelecido com relação ao texto mostrado na tela e a transição entre os estados, porém parou de funcionar após o primeiro teste da a conexão com página 2, não mostrando nem mesmo o texto padrão. (Causa Desconhecida).
 * Página 2: Funciona normalmente separada.
 * Página 1 + Página 2: Não Funciona (Causa Desconhecida).
+
+Aqui vai o link da apresentação: https://youtu.be/74qDn-lxfl0
