@@ -37,4 +37,7 @@ configuração errada da pinagem que código usa.
 * Página 2: Funciona normalmente separada.
 * Página 1 + Página 2: Não Funciona (Causa Desconhecida).
 
-Aqui vai o link da apresentação: https://youtu.be/74qDn-lxfl0
+Aqui vai o link da apresentação: 
+
+* Página 1: https://youtu.be/-ai0dBmc8nU
+* Página 2: https://youtu.be/469ZgvWlxJA
